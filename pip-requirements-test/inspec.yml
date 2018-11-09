@@ -1,0 +1,7 @@
+name: pip-requirements-test
+title: requirements-test-inspec
+maintainer: crispus.kamau@andela.com
+summary: verify that specified pip requirements are installed
+supports:
+  - platform-family: linux
+version: 1.0.0
