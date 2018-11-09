@@ -10,7 +10,7 @@ services:
     links:
       - target
     volumes:
-      - .:/root
+      - ./pip-requirements-test:/workstation-home/pip-requirements-test
 
   target:
     build:
