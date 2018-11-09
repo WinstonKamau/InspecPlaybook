@@ -1,0 +1,11 @@
+#Ignore vscode for editor
+.vscode
+#Ignore venv folder for virtual environment
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+migrations/
+.*_history
+.ssh
+.inspec
